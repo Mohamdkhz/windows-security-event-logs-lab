@@ -1,4 +1,4 @@
-[7/30/2026 11:29 PM] Mohammad: # Windows Security Event Logs Enterprise Lab
+ # Windows Security Event Logs Enterprise Lab
 
 <p align="center">
 
