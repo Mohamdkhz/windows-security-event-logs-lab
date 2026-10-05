@@ -160,7 +160,7 @@ Windows Security Logs are one of the primary telemetry sources used by Security 
 Every authentication, privilege assignment, user creation, group modification, and process execution leaves evidence within Windows Event Logs.
 
 Understanding these logs is essential before deploying SIEM solutions such as Splunk or Wazuh.
-[7/30/2026 11:29 PM] Mahdi: This repository establishes the logging foundation required for advanced detection engineering and threat hunting.
+This repository establishes the logging foundation required for advanced detection engineering and threat hunting.
 
 ---
 
